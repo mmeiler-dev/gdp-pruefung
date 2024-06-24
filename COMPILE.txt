@@ -1,0 +1,1 @@
+g++ main.cpp mathLib.cpp utilities.cpp -o matheBib -std=c++17 -Wall

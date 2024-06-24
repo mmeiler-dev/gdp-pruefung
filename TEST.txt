@@ -1,0 +1,17 @@
+Die kompilierte Datei schickt den User in ein Menü, welches durch die Eingabe der vorgegeben Zahlen gesteuert werden kann.
+Die Zahl 0 tut in dem Fall das Programm beenden und 1 die Tests für die Vektor2-Klasse aufrufen, sowie 2 die Tests für Matrix2-Klasse.
+Diese öffnen jeweils ein neues Menü, welches auch wieder durch Zahleneingabe gesteuert wird. 0 ist diesmal dazu da, um in das Hauptmenü zurückzukommen.
+
+Die Tests der Vektor2-Klasse beinhalten:
+- Vektoraddition: Es werden zwei Vektoren elementweise Werte durch Eingabe zugeordnet. Diese werden dann addiert und das Ergebnis wird in der Konsole ausgegeben
+- Skalarprodukt: Wieder werden zwei Vektoren erstellt und diese werden multipliziert. Ausgabe in der Konsole.
+- Vektornorm: Hier wird ein Vektor elementweise eingegeben und das Quadrat der Norm dieses Vektors wird ausgegeben
+
+Die Tests der Matrix2-Klasse beinhalten:
+- Matrixaddition: Hier werden zwei Matrizen elementweise in der row-major Schreibweise zugeordnet und deren Summe wird ausgegeben
+- Matrixmultiplikation: Zwei Matrizen werden eingegeben und miteinander multipliziert
+- Matrix-Vektor-Multiplikation: Eine Matrix und ein Vektor werden eingegeben und das Ergbnis (ein Vektor) wird ausgegeben
+- Exponential: Hier wird einer Matrix Werte durch Eingabe zugewiesen. Darauf wird das Taylorpolynom der exp() Funktion bis zu einer gewissen Genauigkeit 
+  ausgerechnet.
+
+  
